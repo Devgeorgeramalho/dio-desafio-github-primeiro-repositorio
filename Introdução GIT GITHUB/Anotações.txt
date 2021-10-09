@@ -1,0 +1,3 @@
+Link para download do git 
+https://git-scm.com/downloads
+o git bash e um console estendido para otimizar o uso do git 
